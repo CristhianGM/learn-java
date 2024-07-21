@@ -9,7 +9,7 @@ public class AdivinandoNumero {
         }
     }
     // Esto es un comentario
-    // Este es un segundo comentario 
+    // Este es un tercer comentario 
     public static void testearAdivinandoNumero() {
         int min = 1;
         int max = 20;
